@@ -1,0 +1,18 @@
+body{
+    background: url(../img/criptografia-de-dados.jpeg) black;
+    background-size: 100%;
+    background-repeat: no-repeat;
+    color: white;
+    font-family: fantasy;
+}
+.row{
+    color: white;
+    text-align: center;
+  
+}
+#btn{
+    color: rgb(3, 3, 68);
+}
+#tipo{
+    color: rgb(3, 3, 68);
+}
